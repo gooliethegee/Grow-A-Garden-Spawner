@@ -3,7 +3,7 @@ Roblox Script
 
 --[[
 Grow A Garden Hub - Rayfield Version
-Copyright (c) 2025 YourName
+Copyright (c) 2025 GoolieTheGee
 
 All Rights Reserved.
 

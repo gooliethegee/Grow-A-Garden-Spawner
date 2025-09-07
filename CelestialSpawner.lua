@@ -5,7 +5,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Celestial Spawner",
     LoadingTitle = "Celestial Hub",
-    LoadingSubtitle = "by Grow A Garden",
+    LoadingSubtitle = "by Official XGAH",
     ConfigurationSaving = {
         Enabled = false
     },
@@ -17,7 +17,7 @@ local Window = Rayfield:CreateWindow({
         Title = "Celestial Spawner",
         Subtitle = "Key Verification",
         Note = "Enter the correct key to continue.",
-        SaveKey = false,
+        SaveKey = true,
         Key = "CELESTIALONTOP"
     }
 })
